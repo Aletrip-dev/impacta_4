@@ -1,0 +1,8 @@
+Fabiano Kazuiti Sato21:36
+servidor
+serverqueen.database.windows.net
+user: queen
+senha: @@Que2021
+189.33.66.58
+Você21:38
+189.33.67.34
